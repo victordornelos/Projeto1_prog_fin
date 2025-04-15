@@ -7,14 +7,19 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Finance-Data%20Analysis-blue?style=for-the-badge"/>
 
----
-**Professor**: Julio Russo
 
-**Disciplina**: Programação em Finanças
+<p align="center">
+  <img src="foto/Invest.jpg" width="600"/>
+</p>
+
+
+**Professor**: Julio Russo.
+
+**Disciplina**: Programação em Finanças.
 
 **Turma**: 2025.1
 
-**Alunos**: Lucas dos Santos Marques, Luiz Fernando M. Meirinho , Victor A. S. de Souza e Victor Flávio P. Dornelos
+**Alunos**: Lucas dos Santos Marques, Luiz Fernando M. Meirinho , Victor A. S. de Souza e Victor Flávio P. Dornelos.
 
 **Data**: 16/04/2025
 
